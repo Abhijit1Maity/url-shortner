@@ -3,6 +3,8 @@
 A simple and efficient URL shortener built with **Node.js**, **Express**, and **MongoDB**. This application allows users to shorten long URLs, redirect to the original link, and manage shortened URLs using a clean RESTful interface.
 
 ---
+# Screenshot
+![WhatsApp Image 2025-06-26 at 16 28 33_917d1329](https://github.com/user-attachments/assets/c17b962a-03d9-4d89-ae44-39fb72b21c60)
 
 ## 🚀 Features
 
